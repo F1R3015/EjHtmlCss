@@ -1,0 +1,37 @@
+
+*{
+    font-family: 'Oswald';
+}
+
+body{
+    background-color: #98cff0;
+    
+}
+
+.Texto{
+    color : #01048f;
+    margin-left: 40%;
+    text-align: left;
+}
+
+#Titulo{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.Menu > ul > li{
+    background-color: #fff;
+    list-style-type: none;
+    border-right: solid 30px #000;
+    padding-left: 5%;
+    margin-bottom: 10px;
+    height: 30px;
+    width: 250px;
+    color : #8a0d0d;
+    
+}
+
+.Menu {
+    position: absolute;
+    margin-top : 40px;
+}
